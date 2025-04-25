@@ -235,6 +235,13 @@ composer create-project symfony/skeleton:^7.0 .
 En caso de que se os borren todo lo creado anteriormente.
 Simplemente crear las carpetas y archivos nuevamente.
 
+Nuevamente
+
+```bash
+docker-compose down
+docker-compose up -d --build
+```
+
 ---
 
 ### ❌ **Error: Class "TestCase" not found**
