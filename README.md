@@ -232,6 +232,9 @@ rm -rf ./* .[^.]*
 composer create-project symfony/skeleton:^7.0 .
 ```
 
+En caso de que se os borren todo lo creado anteriormente.
+Simplemente crear las carpetas y archivos nuevamente.
+
 ---
 
 ### ❌ **Error: Class "TestCase" not found**
