@@ -34,7 +34,7 @@ symfony-docker/
 
 ## 🔨 Paso a paso para levantar el entorno
 
-### 1. Clona el repositorio o crea la estructura
+### 1. Crea la estructura
 
 ```bash
 mkdir -p symfony-docker/php symfony-docker/nginx
